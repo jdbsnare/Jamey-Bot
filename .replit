@@ -1,1 +1,1 @@
-run = "python discord_bot.py"
+run = "python3 -m pip install -r requirements.txt && python3 discord_bot.py"

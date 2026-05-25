@@ -1,1 +1,1 @@
-run = "python3 discord_bot.py"
+run = "python discord_bot.py"
